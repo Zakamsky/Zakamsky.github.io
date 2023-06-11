@@ -3,9 +3,8 @@
 ## Переболевшим, надо прививаться, Вова.
 
 
-+----+-----------------------+---------+-------------------+-----------------------+---------------------------------------------------------------+-------+--------------+
+
 |    |        Spell          |  School |   Casting Time    |         Info          |                         Description                           |  Save |    Source    |
-+----+-----------------------+---------+-------------------+-----------------------+---------------------------------------------------------------+-------+--------------+
 | [] | Absorb Elements       |  Abj    |   1 reaction      |     Conc. / Ritual    | Caster has resistance to damage and deals extra damage on       |       |     XGE      |
 |    |                       |         |                   |                       | next attack (damage/lvl)                                      |       |              |
 | [] | Animal Friendship     |  Ench   |   1 action        |           -           | Beast with Int 3 or less must succeed on Wis. save or be       |  Wis  |   PHB (SRD)  |
@@ -38,7 +37,7 @@
 | [] | Speak with Animals    |  Div    |   1 action        |     Conc. / Ritual    | Caster communicates with animals                               |       |   PHB (SRD)  |
 | [] | Thunderwave           |  Evoc   |   1 action        |           -           | Creatures in 15-ft cube must succeed on Con. save or take      |  Con  |   PHB (SRD)  |
 |    |                       |         |                   |                       | 2d8 thunder damage (damage/lvl)                                |       |              |
-+----+-----------------------+---------+-------------------+-----------------------+---------------------------------------------------------------+-------+--------------+
+
 
 
 test
